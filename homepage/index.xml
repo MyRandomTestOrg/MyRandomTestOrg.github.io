@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://MyRandomTestOrg.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Homepages on My New Hugo Site</title>
+    <link>https://MyRandomTestOrg.github.io/homepage/</link>
+    <description>Recent content in Homepages on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jan 2021 21:32:36 +0100</lastBuildDate>
     
-	<atom:link href="https://MyRandomTestOrg.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://MyRandomTestOrg.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -28,24 +27,6 @@
       <guid>https://MyRandomTestOrg.github.io/homepage/more/</guid>
       <description>Let get a bit deeper in the content.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu libero in risus vehicula efficitur. Vivamus sodales faucibus feugiat. Duis ullamcorper, odio vitae faucibus iaculis, lacus nunc pharetra mauris, eget porta erat ligula in sapien. Nulla condimentum rutrum orci vitae pellentesque. Vestibulum et nisl ac sem ultrices sollicitudin. Nulla dapibus suscipit lacinia. Donec quis diam eu eros semper faucibus. Nulla sed egestas erat, et molestie nulla.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://MyRandomTestOrg.github.io/posts/my-first-post/</link>
-      <pubDate>Sun, 17 Jan 2021 21:32:36 +0100</pubDate>
-      
-      <guid>https://MyRandomTestOrg.github.io/posts/my-first-post/</guid>
-      <description>This is a new article!</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://MyRandomTestOrg.github.io/page/about/</link>
-      <pubDate>Sun, 17 Jan 2021 21:32:07 +0100</pubDate>
-      
-      <guid>https://MyRandomTestOrg.github.io/page/about/</guid>
-      <description>About me!</description>
     </item>
     
   </channel>
