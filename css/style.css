@@ -1,0 +1,21 @@
+figure {
+    margin: 20px;
+}
+
+figcaption h4 {
+    font-size: medium;
+    font-style: italic;
+    font-weight: normal;
+}
+
+figure.right-surrounded {
+    float: right
+}
+
+figure.left-surrounded {
+    float: left
+}
+
+.post-holder {
+    display: flow-root;
+}
