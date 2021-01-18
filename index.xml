@@ -12,25 +12,6 @@
     
     
     <item>
-      <title>Welcome</title>
-      <link>https://MyRandomTestOrg.github.io/homepage/welcome/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://MyRandomTestOrg.github.io/homepage/welcome/</guid>
-      <description>This is just another section to appear on the homepage. Say hello if you pass by!</description>
-    </item>
-    
-    <item>
-      <title>More</title>
-      <link>https://MyRandomTestOrg.github.io/homepage/more/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://MyRandomTestOrg.github.io/homepage/more/</guid>
-      <description>Let get a bit deeper in the content.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus eu libero in risus vehicula efficitur. Vivamus sodales faucibus feugiat. Duis ullamcorper, odio vitae faucibus iaculis, lacus nunc pharetra mauris, eget porta erat ligula in sapien. Nulla condimentum rutrum orci vitae pellentesque. Vestibulum et nisl ac sem ultrices sollicitudin. Nulla dapibus suscipit lacinia. Donec quis diam eu eros semper faucibus. Nulla sed egestas erat, et molestie nulla.</description>
-    </item>
-    
-    <item>
       <title>My First Post</title>
       <link>https://MyRandomTestOrg.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 17 Jan 2021 21:32:36 +0100</pubDate>
